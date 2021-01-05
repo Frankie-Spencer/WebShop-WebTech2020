@@ -73,8 +73,10 @@ c. Uses file backend for email (for grading purposes)
 19. MANDATORY Frontend: uses React JS
 20. The application is deployed on heroku.com
 
-Implemented as two apps. 
+Implemented as two apps.
+
 a.	Django API + main page, 
-http://webshop-api-webtech2020.herokuapp.com/.
+http://webshop-api-webtech2020.herokuapp.com/
+
 b.	React Frontend, 
 http://webshop-webtech2020.herokuapp.com/
