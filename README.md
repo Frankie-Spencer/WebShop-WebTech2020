@@ -75,6 +75,6 @@ c. Uses file backend for email (for grading purposes)
 
 Implemented as two apps. 
 a.	Django API + main page, 
-http://webshop-api-webtech2020.herokuapp.com/
+http://webshop-api-webtech2020.herokuapp.com/.
 b.	React Frontend, 
 http://webshop-webtech2020.herokuapp.com/
