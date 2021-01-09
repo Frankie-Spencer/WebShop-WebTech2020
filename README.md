@@ -60,18 +60,29 @@ c. On a successful Pay transaction, the status of each item in the cart becomes 
 
 
 Non-Functional Requirements
+
 15. Responsive: The web looks nice both on computer screen width>= 760px and phone width< 760px.
+
 16. Security: For simplicity we use http only. Only authenticated users can buy and sell.
+
 17. Usability: the site does reflect modern design principles.
 
 
+
 Technical Requirements
+
 18. MANDATORY Backend:
+
 a. Backend uses Django,
+
 b. Django serves JSON to the shop page and HTML to the landing page
+
 c. Uses file backend for email (for grading purposes)
+
 19. MANDATORY Frontend: uses React JS
+
 20. The application is deployed on heroku.com
+
 
 Implemented as two apps.
 
