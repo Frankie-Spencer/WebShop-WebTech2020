@@ -24,13 +24,13 @@ After the data is generated the landing page is updated.
 
 a. The item (graphical) component have this information:
 
-i.Title
+i. Title
 
-ii.Description
+ii. Description
 
-iii.Date added
+iii. Date added
 
-iv.Price
+iv. Price
 
 b. The API will return 9 items per request. Next set of items will be fetched with pagination method.
 
@@ -81,9 +81,9 @@ The date of creation is automatically saved on the backend.
 
 a. If the price of an item has changed for any item in the cart, the cart transaction is halted and
 
-i.a notification will be shown next to the item, and
+i. a notification will be shown next to the item, and
 
-ii.the displayed price will be updated to the new price.
+ii. the displayed price will be updated to the new price.
 
 b. If an item is no longer available when the user clicks 'Pay', the whole cart-transaction is halted and a notification is shown to the user without removing the item from the cart. The user can remove manually the unavailable items and then Pay.
 
