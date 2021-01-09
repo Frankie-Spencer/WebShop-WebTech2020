@@ -33,6 +33,7 @@ iii.Date added
 iv.Price
 
 b. The API will return 9 items per request. Next set of items will be fetched with pagination method.
+
 c. The items are ordered by creation date (new-to-old).
 
 4. Search: Any user can search for items by title. Sold items should only be listed on the seller’s page.
