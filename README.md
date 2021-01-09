@@ -12,7 +12,6 @@ b. Shop page: accessible via ‘http://webshop-webtech2020.herokuapp.com/’ con
 2. Automatic DB population: on the landing page (for grading purposes) there is a link where any anonymous visitor will be able to automatically populate the DB with 6 users, of which 3 users (i.e. sellers) own 30 items. Before each re-population the DB will be emptied. The generated users will have the following format:
 
 a. Username: testuser#
-
 b. Password: pass#
 
 c. Email address: testuser#@shop.aa
