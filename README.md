@@ -21,6 +21,7 @@ After the data is generated the landing page is updated.
 
 
 3. Browse: Any user can see the list of items for sale. Sold items should only be listed on the seller’s page.
+
 a. The item (graphical) component have this information:
 
 i.Title
